@@ -25,9 +25,10 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
+a         { color: #AB2332; text-decoration: none}
 a:hover   { color: #000; }
-a:visited { color: #a0a; }
+/*a:visited { color: ##AB2332; }*/
+
 
 table {
   font-size: inherit;
@@ -36,7 +37,7 @@ table {
 
 /*****************************************************************************/
 /*
-/* Home
+/* ul.posts
 /*
 /*****************************************************************************/
 ul.posts {
@@ -45,13 +46,24 @@ ul.posts {
 }
 
 ul.posts li {
-  line-height: 1.75em;
+  line-height: 1.5em;
+  font-size: 90%;
 }
 
 ul.posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
+}
+
+ul.posts a { 
+  color: #AB2332; 
+  text-decoration: none;
+}
+
+ul.posts a:hover { 
+  color: #000; 
+  text-decoration: none;
 }
 
 /*****************************************************************************/
@@ -133,6 +145,10 @@ ul.posts span {
 /*****************************************************************************/
 
 /* standard */
+.post {
+  color:#555;
+}
+
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
@@ -141,6 +157,12 @@ ul.posts span {
 
 .post ul, .post ol {
   margin-left: 1.35em;
+}
+
+.post img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .post code {

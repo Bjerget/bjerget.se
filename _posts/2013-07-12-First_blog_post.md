@@ -2,7 +2,10 @@
 layout: post
 title:  "My first blog post with Jekyll"
 date:   2013-07-12 12:36
-categories: more
+tags:
+- Continuous Delivery
+- More
+
 ---
 
 This is the very first post I did with Jekyll. Baby steps!

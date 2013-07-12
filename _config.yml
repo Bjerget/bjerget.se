@@ -1,2 +1,5 @@
 name: Bjerget
 pygments: true
+exclude: [README.md]
+timezone: Europe/Copenhagen
+url: www.bjerget.se
