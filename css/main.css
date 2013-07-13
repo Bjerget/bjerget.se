@@ -6,17 +6,16 @@
 
 /* Global Reset */
 * {
-  margin: 0;
-  padding: 0;
-}
+  padding: 0px;
+  margin:0px;
+}fs
 
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
+  background-color: #eee;
   font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
-  text-align: center;
+  padding-top: 20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -34,6 +33,54 @@ table {
   font-size: inherit;
   font: 100%;
 }
+
+/*****************************************************************************/
+/*
+/* Container
+/*
+/*****************************************************************************/
+
+.container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  background-color: #FFF;
+  font-size: small;  
+/*  background-image:url("/images/bjerget.header800x140.png");
+  background-repeat:no-repeat;
+*/
+ }
+ 
+.banner {
+  background-image:url("/images/bjerget.header800x140.png");
+  background-repeat:no-repeat;
+  padding-top:140px;
+  clear:both;
+ }
+ 
+ 
+
+/*****************************************************************************/
+/*
+/* Credits
+/*
+/*****************************************************************************/
+
+.credits {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top:3px;
+  font-size: x-small;
+  width: 800px;
+  text-align:center;
+  color: #ccc;
+  background-color: #eee;
+  
+
+}
+
+
 
 /*****************************************************************************/
 /*
@@ -75,9 +122,11 @@ ul.posts a:hover {
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
-  margin: 3em auto 2em;
-  line-height: 1.5em;
+  padding-left:1em;
+  padding-right:1em;
+  margin-top: auto;
+  margin-bottom: auto;  
+  line-height: 1.5em;  
 }
 
 .site .header a {
@@ -138,9 +187,13 @@ ul.posts a:hover {
   border: 0;
 }
 
+.header {
+  text-align:left;
+}
+
 /*****************************************************************************/
 /*
-/* Posts
+/* Post
 /*
 /*****************************************************************************/
 
@@ -163,6 +216,8 @@ ul.posts a:hover {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 400px;
+  height: 300px;
 }
 
 .post code {
@@ -184,4 +239,14 @@ ul.posts a:hover {
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+.menu {
+  float: right;
+  margin-left :5px;
+  margin-top :5px;
+  width:90px;
+  background-color: #dfd;
+  text-align:left;
+
 }

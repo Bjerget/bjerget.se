@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "My first blog post with Jekyll"
-date:   2013-07-12 12:36
+title:  "Min første blog i Jekyll"
 tags:
-- Continuous Delivery
-- More
+- Story
 
 ---
 
-This is the very first post I did with Jekyll. Baby steps!
-Later it will be published at [Bjergets new web][bjerget].
+Dette er den første blog om Bjerget som jeg skriver i Jekyll. Jekyll er en simplet system til oprettelse af websider, som har den fordel at det kan hostes fra github pages.
 
-![Bjerget drawing](/images/bjerget.small.jpg "Bjerget drawing")
+Min nye site ligger på [Bjergets egen web][bjerget], det foregår via oprettelse af en CNAME record på DNS serveren, helt vildt simpelt!
 
+Tegningen nedenfor er én som jeg tror Mia ar tegnet, den hang på opslagstavlen oppe på Bjereget for nogle år siden, jeg synes den er helt vild hyggelig ;-)
+
+![Bjerget drawing](/images/bjerget.drawing.3x4.png "Bjerget drawing")
 
 [bjerget]: http://www.bjerget.se "Home of Bjerget"

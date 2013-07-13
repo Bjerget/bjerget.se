@@ -17,31 +17,27 @@
     <body>
 
         <div class="container">
-          <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-              <a class="extra" href="/">Forside</a>
-            </div>
 
-                {{ content }}
+          <div class="banner"></div>
+            
+          <div class="site">
+
+            <div class="header">
+               {%include header.html%}
+            </div>          
+
+            {{ content }}
 
             <div class="footer">
-              <div class="contact">
-                <p>
-                  Your Name<br />
-                  What You Are<br />
-                  your@email.com
-                </p>
-              </div>
-              <div class="contact">
-                <p>
-                  <a href="mailto:lars@kruse.bz">Lars Kruse</a><br />
-                  <a href="http://twitter.com/lakruzz/">twitter.com/lakruzz</a><br />
-                </p>
-              </div>
-            </div>
-          </div>
+              {%include footer.html%}  
+            </div> <!-- footer -->
+          </div> <!-- /site -->
+        <div class="credits">
+          {%include credits.html%}
+        </div>
         </div> <!-- /container -->
+        
+  
 
     </body>
 </html>
