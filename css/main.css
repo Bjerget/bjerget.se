@@ -8,7 +8,7 @@
 * {
   padding: 0px;
   margin:0px;
-}fs
+}
 
 html, body { height: 100%; }
 
@@ -121,7 +121,6 @@ ul.posts a:hover {
 
 .site {
   font-size: 115%;
-  text-align: justify;
   padding-left:1em;
   padding-right:1em;
   margin-top: auto;
@@ -148,7 +147,7 @@ ul.posts a:hover {
 }
 
 .site .header a.extra {
-  color: #aaa;
+  color: #eee;
   margin-left: 1em;
 }
 
@@ -245,8 +244,9 @@ ul.posts a:hover {
   float: right;
   margin-left :5px;
   margin-top :5px;
-  width:90px;
-  background-color: #dfd;
+  width:95px;
+  background-color: rgb(221, 145, 021);
   text-align:left;
-
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px #888888;
 }
