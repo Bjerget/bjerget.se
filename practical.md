@@ -7,9 +7,9 @@ permalink: /practical/
 
 ## Find Vej
 
-Bjerget
-Västraltsvägen 29
-310 20 Knäred
+Bjerget<br/>
+Västraltsvägen 29<br/>
+310 20 Knäred<br/>
 Sverige
 
 ## El
