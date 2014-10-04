@@ -1,5 +1,8 @@
 name: Bjerget
-pygments: true
+highlighter: pygments
 exclude: [README.md]
 timezone: Europe/Copenhagen
 url: www.bjerget.se
+markdown: kramdown
+permalink:  none
+
