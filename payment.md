@@ -20,7 +20,11 @@ Prisen er for Bjergets Venner er DKK 135,- per dag
 
 Prisen for gæster er DKK 300,- per dag
 
-Betalinger bedes oveført til: __Handelsbanken konto 6301 7356218__
+Betalinger bedes overført til en af følgende:
+
+* _Handelsbanken_ konto __6301 7356218__
+* _Swipp_ telefon __20 87 25 30__
+* _MobilePay_ telefon __20 87 25 30__
 
 
 
