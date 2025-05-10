@@ -3,6 +3,6 @@ highlighter: pygments
 exclude: [README.md]
 timezone: Europe/Copenhagen
 url: www.bjerget.se
+baseurl: /
 markdown: kramdown
 permalink:  none
-
