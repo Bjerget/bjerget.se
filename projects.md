@@ -22,7 +22,10 @@ Al brændet – fra begge nuværende stakke – skal samles i det nye brændeskj
 Terassen skal have nyt dæk. Den bærende konstruktion er fin nok og kan genbruges, dækket skal udskiftes og trappen mod øst genskabes:
 
 - Det gamle dæk skal fjernes (med brækjern)
-- Der skal indkøbes nyt træ (trykimprægneret gran) samme længde, som det der ligger nu.
+- Der skal indkøbes nyt træ
+   - Trykimprægneret gran.
+   - Samme længde, som det der ligger nu (3,60m).
+   - Huset er 9,50m og trappen skal have to trin på hver ≈30 cm, 
 - Der skal lægges nyt dæk (skrues fast på den nuværende bærende konstruktion som genbruges)
 - Der skal bygges en ny trappe (tre trin) i den østlige ende af terassen. Den gamle har ikke overlevet.
 - Affaldstræ skal fragtes til genbrugspladsen i Ahla.
