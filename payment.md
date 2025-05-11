@@ -5,26 +5,13 @@ author: Lars Kruse
 permalink: /payment/
 ---
 
-Ved brug af Bjerget man betaler blot per dag.
+Som udgangspunkt er brug af Bjerget forbeholdt venner og familie, og brug af huset afregnes til kost-priser. I praksis afregner vi bare den elekticitet man har brugt mens man er der — vi tænder for værmen ca ét døgn før I ankommer, så det regner vi også med.
 
-* Man betaler for brug af hele huset, ikke per person. 
-* Dagsprisen inkluderer elektricitet og brænde.
-* Man skal selv gøre rent efter sig.
+Bemærk, at eftersom huset er opvarmet med elekticitet og isoleret efter 1968 standarder kan det godt blive til en del, specielt hvis man er der i de kolde perioder (hård frost ca ≈50 KWH/dag).
+
+Afregning af el sker til en fast pris på **DKK 3,85 per KWH**
 
 
-Antallet af dage defineres som _overnatninger_ så hvis man eksempelvis ankommer fredag og tager hjem søndag er det 2 dage.
-
-Som bruger af Bjerget betaler man enten en tarif som gælder for [_Venner af Bjerget_](/friends/) eller bare som _Gæster_.
-
-Prisen er for Bjergets Venner er DKK 135,- per dag
-
-Prisen for gæster er DKK 300,- per dag
-
-Betalinger bedes overført til en af følgende:
-
-* _Handelsbanken_ konto __6301 7356218__
-* _Swipp_ telefon __20 87 25 30__
-* _MobilePay_ telefon __20 87 25 30__
 
 
 
