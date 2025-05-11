@@ -65,6 +65,7 @@ Fik I ikke set en elg? Så oplev dem helt tæt på i elgparken.
 ## Karsefors kraftværk/dæmning
 🗺️ [Skogaby](https://maps.app.goo.gl/WQT8sP2uu19eCa636){: target="_blank"}
 
+Her er en meget fin markeret rute, og en ganske spetakulært dæmning.
 
 ## Vand: Badesøer, vandfald, strand
 🗺️ [Gatesjö - Badesøen i Skogaby](https://maps.app.goo.gl/LNzAoisQGenZReRW6){: target="_blank"}<br/>
@@ -83,6 +84,3 @@ Hallänningarnas marknad er en rigtig hult butik. Den sidste der er tilbage og s
 
 ## Lidt af hvert
 🌐 [Laholms tidning](https://laholmstidning.se/){: target="_blank"}
-
-
-
